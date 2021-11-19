@@ -27,3 +27,5 @@ Tugas form 3.2 use language :
 Tugas 5 use language :
   1. html
   2. css
+
+Tugas Pratikum 4.1 and 4.1 in folder Pertmuan 6
